@@ -2,6 +2,7 @@
 This branch is designated for the [reference documentation site](https://schulichignite.com/spark). The library code itself can be [found here](https://github.com/Schulich-Ignite/spark).
 
 
+
 ## Contribution guide
 
 ### Prerequisites

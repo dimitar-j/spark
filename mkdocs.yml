@@ -12,7 +12,7 @@ theme: material
 
 docs_dir: src
 
-site_dir: dist
+site_dir: docs
 
 site_description: Spark is a library designed to help drawing in python easy
 
