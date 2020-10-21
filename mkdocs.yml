@@ -1,0 +1,19 @@
+site_name: spark
+
+site_url: https://shulichignite.com/spark
+
+nav:
+    - Home: index.md
+    - Shapes: shapes.md
+    - Input: input.md
+    - Color: color.md
+
+theme: material
+
+docs_dir: src
+
+site_dir: dist
+
+site_description: Spark is a library designed to help drawing in python easy
+
+site_author: Schulich Ignite
